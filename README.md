@@ -3,6 +3,11 @@
 https://github.com/AmiraMostafa628/quran/assets/103458291/a006e98d-f554-4c62-adc0-4231ef174be2
 
 
+https://github.com/AmiraMostafa628/quran/assets/103458291/a8be0869-23af-4a68-a04e-ab48930cc012
+
+
+
+
 
 A new Flutter project.
 
